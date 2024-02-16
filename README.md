@@ -21,4 +21,4 @@ The future features I want to add, is:
   - Update data
   - Sign Up Screen to a new User
   - Send the generated pdf to email of the User
-  - 
+    
