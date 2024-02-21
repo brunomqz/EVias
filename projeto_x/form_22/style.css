@@ -1,0 +1,23 @@
+#cabecalho {
+    display: flex;
+    border-width: 1rem;
+}
+
+#logotipo{
+    height: 100%;
+    width: 20%;
+}
+
+#titulo {
+    height: 100%;
+}
+
+tr {
+    border-width: 1rem;
+}
+
+.cabecalho {
+    border
+}
+
+
