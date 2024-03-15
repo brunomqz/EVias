@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bold;
+    border-width: .2rem;
+    border-style: solid;
+    border-color: black;
+}
+
+.divisao {
+    background-color: rgb(168,168,168);
+    text-align: center;
+}
+
+.linha {
+    background-color: #dedede;
+}
+
+
+.cabecalho {
+    text-align: center;
+}
+
+.observacoes {
+    height: 4rem;
+}
+
