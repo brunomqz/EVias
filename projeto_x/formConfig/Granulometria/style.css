@@ -1,0 +1,52 @@
+/* GERAL */
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+}
+
+table {
+    border-collapse: collapse;
+    border-color: black;
+    border-style: solid;
+    width: 90%;
+}
+
+th, tr {
+    font-size: x-small;
+    text-align: center;
+}
+
+/* th {
+    background-color: rgb(164, 164, 164);
+} */
+
+.divisao {
+    margin-bottom: .5%;
+    margin-top: .5%;
+    background-color: rgb(213, 230, 255);
+    font-weight: bold;
+}
+
+/* TÍTULO */
+.titulo {
+    font-size: x-small;
+    font-weight: bold;
+}
+
+.cabecalho {
+    font-size: small;
+    text-align: center;
+}
+
+.observacoes, .responsaveis {
+    margin-top: .5%;
+}
+
+.analise {
+    background-color: rgb(164, 164, 164);
+    font-weight: bold;
+}
+
+#subtitle {
+    background-color: #dedede;
+}
