@@ -14,11 +14,3 @@ The Technologies I use to develop this project, is:
 X-Project have 3 screens in operation: Login, Home and Insert Data Screen.
 
 * Login screen validates whether the user is in the database or not.
-
-The future features I want to add, is:
-
-  - Delete data
-  - Update data
-  - Sign Up Screen to a new User
-  - Send the generated pdf to email of the User
-    
