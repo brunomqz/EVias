@@ -1,4 +1,4 @@
-# X-Project - Web Project
+# Project_E - Web Project
 
 The objective with this project, is to make a simple system to generate a PDF report, focused on the input of materials from an asphalt analysis laboratory, where we take the data and insert it into the PDF report. 
 
