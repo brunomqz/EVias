@@ -1,0 +1,58 @@
+body {
+    background-color: grey;
+}
+
+.comentario {
+    border-radius: .2rem;
+    position: absolute;
+    top: 0; bottom: 0;
+    left: 0; right: 0;
+    margin: auto;
+    background-color: white;
+    height: 33.5%;
+    width: 50%;
+}
+ 
+#motivo {
+    width: 96%;
+    height: 4rem;
+    border: none;
+    background-color: #dedede;
+    border-radius: .2rem;
+    margin-left: 2%;
+    outline: none;
+    font-size: larger;
+}
+
+.botoes {
+    text-align: center;
+}
+
+.botao {
+    height: 4rem;
+    border-radius: .2rem;
+    background-color: #E30613;
+    color: white;
+    border-color: none;
+    border-width: 0;
+    transition: 0.3 all;
+    width: 47.5%;
+    margin-top: 1%;
+}
+
+.botao:hover {
+    filter: contrast(0.85);
+}
+
+.titulo {
+    margin-top: .5%;
+    text-align: center;
+}
+
+#enviar {
+    margin-left: .25%;
+}
+
+#cancelar {
+    margin-right: .25%;
+}
